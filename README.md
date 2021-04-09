@@ -1,6 +1,8 @@
 # Cosmetic-Shop
 Individual Project Assignment for the Spring Advanced Course @ SoftUni.
 
+Try it - https://kozmetichno.herokuapp.com/
+
 My web application should use the following technologies, frameworks and development techniques:
 
 • The application must be implemented using Spring Framework.
